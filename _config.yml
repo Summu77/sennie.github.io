@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sen Nie"
-description              : 
+description              : "VIPL, ICT, CAS"
 repository               : "Summu77/sennie.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sen Nie"
   avatar           : "images/1.jpg"
-  bio              : "Institute of Computing Technology(ICT), Chinese Academy of Sciences(CAS)"
+  bio              : "Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)"
   location         : "Beijing, China"
-  employer         : "VIPL, ICT, CAS"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=fKQnNncAAAAJ&hl=zh-CN"
   email            : "sen.nie@vipl.ict.ac.cn"
